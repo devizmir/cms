@@ -2,7 +2,7 @@
 
 Herkese merhaba 👋
 
-Bildiğiniz üzere Dev İzmir grubu yaklaşık 2015'den bu yana gerek telegram, bazen de buluşmalarla bir topluluk oluşturmuş durumda.
+Bildiğiniz üzere Dev İzmir grubu 2014'den bu yana gerek telegram, bazen de buluşmalarla bir topluluk oluşturmuş durumda.
 
 Yine geçen seneden bu yana Ercan Ermiş ve Fatih Yılmaz'ın liderliğinde düzenlenen "İzmir Developer Buluşmaları" kendi topluluğunu oluşturmuş durumda. Dev İzmir grubu da bildiğiniz üzere bu etkinlikleri hem paylaşıyor, hem de fırsat oldukça destek / katılımcı olmaya çalışıyordu. Bu da gayet olağan bir durum. Çünkü her iki grup adına da konuşmak gerekirse, İzmir'de ne kadar fazla topluluk olursa olsun bunlara birbirinin tamamlayıcısı, destekleyicisi olmalı diye düşünüyoruz.
 
