@@ -32,3 +32,4 @@ Ekler:
 
 - [Manifesto](https://github.com/devizmir/.github/blob/main/MANIFEST.md)
 - [Katkıcı Ahdi Topluluk Sözleşmesi](https://github.com/devizmir/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Etkinlik Oluşturma Politikamız](https://devizmir.com/etkinlik-olusturma-politikamiz)
