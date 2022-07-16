@@ -11,6 +11,7 @@ Herkese açık bir şekilde erişilebilir olan [Dev İzmir Yeni Etkinlik Formu](
 
 ### Etkinlik Oluşturma Adımları:
 
+- [Topluluk Sözleşmelerimiz](https://devizmir.com/topluluk-sozlesmelerimiz)'i okuduğunuzdan emin olun.
 - [Dev İzmir Telegram Kanalı](https://t.me/devizmir)na katılmış olduğunuzdan emin olun.
 - [Dev İzmir Yeni Etkinlik Formu](https://forms.gle/BtNHn1KAjv4aURC66) üzerinden etkinliğinizi kayıt ettirin.
 - Form değerlendirildikten sonra telegram veya telefon üzerinden size erişilecek.
