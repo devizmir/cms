@@ -20,16 +20,10 @@ Peki bunlar pratikte ne anlama geliyor?
 - devizmir.com alan adı altında sitemiz grubu tanıtmak için yayına girecek.
 - twitter.com/_devizmir twitter hesabımız daha aktif olacak.
 - github.com/devizmir github hesabımız altında bazı hareketlenmeler olacak.
-- Topluluk yönetimini belirleyeceğimiz ve burada yayınlayacağımız bir manifesto ve kurallar bütünü ile gerçekleştireceğiz.
-- Bir politika yayınlayarak topluluktaki herkesin ilgili kurallara uyarak "buluşma", "meetup" v.b. etkinlikleri organize edebilmesini sağlayacağız.
+- Topluluk yönetimini belirleyeceğimiz ve burada yayınlayacağımız bir manifesto ve kurallar bütünü ile gerçekleştireceğiz. Bunlara [Topluluk Sözleşmelerimiz](https://devizmir.com/topluluk-sozlesmelerimiz) sayfasından ulaşabilirsiniz.
+- Bir politika yayınlayarak topluluktaki herkesin ilgili kurallara uyarak "buluşma", "meetup" v.b. etkinlikleri organize edebilmesini sağlayacağız. Bu politikaya [Etkinlik Oluşturma Politikamız](https://devizmir.com/etkinlik-olusturma-politikamiz) sayfası üzerinden ulaşabilirsiniz.
 
 
 Kısacası önümüzdeki günlerde yayınlayacağımız bazı manifesto, kurallar ve politikalar ile birlikte hem topluluğu harekete geçirmek, hem de toplululuğun inisiyatif alıp liderliğini üstlenebileceği bir topluluk kimliği oluşturmak için yola koyulduk.
 
 Sevgiler,
-
-Ekler:
-
-- [Manifesto](https://github.com/devizmir/.github/blob/main/MANIFEST.md)
-- [Katkıcı Ahdi Topluluk Sözleşmesi](https://github.com/devizmir/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Etkinlik Oluşturma Politikamız](https://devizmir.com/etkinlik-olusturma-politikamiz)
