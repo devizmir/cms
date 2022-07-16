@@ -1,4 +1,4 @@
-## Dev İzmir'de Topluluk Sözleşmelerimiz
+## Topluluk Sözleşmelerimiz
 
 Her ne kadar Dev İzmir'de özgür ve otonom bir topluluk fikrini benimsemiş olsak da, topluluklar da insanların ortak yaşam alanları sayıldığı için bir takım düzenleyici kurallarımızın olması birilerini rencide edecek, birilerine zarar verecek davranışlar için bir önlem mekanizması oluşturuyor.
 
