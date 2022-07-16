@@ -27,3 +27,9 @@ Peki bunlar pratikte ne anlama geliyor?
 Kısacası önümüzdeki günlerde yayınlayacağımız bazı manifesto, kurallar ve politikalar ile birlikte hem topluluğu harekete geçirmek, hem de toplululuğun inisiyatif alıp liderliğini üstlenebileceği bir topluluk kimliği oluşturmak için yola koyulduk.
 
 Sevgiler,
+
+
+### Yayınladığımız Diğer Yazılar
+
+- [Topluluk Sözleşmelerimiz](https://devizmir.com/topluluk-sozlesmelerimiz)
+- [Etkinlik Oluşturma Politikamız](https://devizmir.com/etkinlik-olusturma-politikamiz)
